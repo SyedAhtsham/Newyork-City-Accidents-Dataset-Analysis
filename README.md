@@ -2,10 +2,10 @@ It was really an amazing experience while working on this hands-on guided projec
 This project enhanced my expertise in pandas, numpy, pydeck, streamlit and plotly.express
 
 I worked on the Newyork City's accidents dataset in finding & visualizing:
-      1. the number of accidents that occurred at each location in NYC
-      2. the number and location of accidents that occurred during a given hour
-      3. breakdown of the number and location of accidents that occurred during each minute of a given hour
-      4. the most dangerous streets for Pedestrians, Cyclists, and Motorists based on the highest number of injuries
+      1. the number of accidents that occurred at each location in NYC <br>
+      2. the number and location of accidents that occurred during a given hour <br>
+      3. breakdown of the number and location of accidents that occurred during each minute of a given hour <br>
+      4. the most dangerous streets for Pedestrians, Cyclists, and Motorists based on the highest number of injuries <br>
 
 Delving deeper into the Data Science!
 
