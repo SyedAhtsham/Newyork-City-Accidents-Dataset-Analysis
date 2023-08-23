@@ -1,14 +1,14 @@
-It was really an amazing experience while working on this hands-on guided project.
-This project enhanced my expertise in pandas, numpy, pydeck, streamlit and plotly.express
+It was really an amazing experience while working on this hands-on guided project. <br>
+This project enhanced my expertise in pandas, numpy, pydeck, streamlit and plotly.express <br><br>
 
-I worked on the Newyork City's accidents dataset in finding & visualizing:
+I worked on the Newyork City's accidents dataset in finding & visualizing:<br>
       1. the number of accidents that occurred at each location in NYC <br>
       2. the number and location of accidents that occurred during a given hour <br>
       3. breakdown of the number and location of accidents that occurred during each minute of a given hour <br>
       4. the most dangerous streets for Pedestrians, Cyclists, and Motorists based on the highest number of injuries <br>
-
+<br>
 Delving deeper into the Data Science!
-
+<br>
 
 ![Screen Shot 2023-08-23 at 1 39 00 PM](https://github.com/SyedAhtsham/Newyork-City-Accidents-Dataset-Analysis/assets/49922045/e7b7106a-d9d2-4cf8-8f01-ad791c87fda4)
 
